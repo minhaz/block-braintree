@@ -1,3 +1,5 @@
+This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).
+
 ## Purpose of this Block ##
 Braintree is a service of Paypal, Inc. and develops tools to accept and process cards in a single, modern integration. Braintree also provides industry-leading tools to help prevent fraudulent transactions, manage data security, and streamline operations.
 
